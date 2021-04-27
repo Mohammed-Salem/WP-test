@@ -1,2 +1,2 @@
-# WP-test
-Docker Image for Wordpress
+# Wordpress
+To deploy wordpress. type kubectl apply -k .
